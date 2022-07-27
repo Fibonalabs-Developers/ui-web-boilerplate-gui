@@ -9,6 +9,8 @@ import JustCommunication from './pages/JustCommunication';
 import CaptchaGenerator from './pages/CaptchaGenerator';
 import Commentmodule from './pages/CommentModule';
 import Utility from './pages/Utility';
+import ReactNative from './pages/ReactNative';
+import Flutter from './pages/Flutter';
 
 function App() {
   return (
@@ -37,6 +39,12 @@ function App() {
         </Route>
         <Route exact path="/utility">
           <Utility />
+        </Route>
+        <Route exact path="/react-native">
+          <ReactNative />
+        </Route>
+        <Route exact path="/flutter">
+          <Flutter />
         </Route>
       </Switch>
     </Router>
