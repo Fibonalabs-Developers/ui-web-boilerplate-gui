@@ -10,8 +10,7 @@ const footer = () => (
   <div className="h-20 px-8  z-50 relative md:px-14 lg:px-14 xl:px-24 bg-black flex items-center justify-between w-full">
     <div>
       <p className="text-white text-left font-light text-xs lg:text-sm xl:text-lg">
-        All rights are reserved Fibonalabs &nbsp;
-        {year.getFullYear()}
+        {`All rights are reserved Fibonalabs ${year.getFullYear()}`}
       </p>
     </div>
     <div>
