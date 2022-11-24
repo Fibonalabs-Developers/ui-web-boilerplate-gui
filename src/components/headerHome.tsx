@@ -3,7 +3,7 @@ import './headerHome.css';
 
 const headerHome = () => (
   <div className="h-18  p-2 text-center font-bold  bg-headerbg shadow-4xl fixed w-full z-50">
-    <div className="py-4 text-xs lg:text-xl">
+    <div className="py-4 text-xs lg:text-xl menu">
       <a href="/" className="mx-3 lg:mx-5">
         Home
       </a>
