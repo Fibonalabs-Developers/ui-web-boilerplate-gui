@@ -256,7 +256,20 @@ const BoilerPlate = () => {
       >
         <img src={logo} alt="text" />
       </Header>
+
       <Layout backButton alert={alert}>
+        <div>
+          <div className="text-3xl py-3 font-extrabold pt-20">
+            Frontend React Boilerplate
+          </div>
+          <hr className="pb-1" />
+          <p>
+            React boilerplate contains all you need to start your React project.
+            In a few clicks, you can create the project based on the selected
+            configuration. It installs all the necessary dependencies by running
+            a single command.
+          </p>
+        </div>
         <div className="flex flex-col py-20 md:flex-row gap-5">
           <div className="flex-1 items-center ">
             <Steps
@@ -267,11 +280,12 @@ const BoilerPlate = () => {
               }}
             >
               <Step
-                description={(
+                description={
+                  // eslint-disable-next-line react/jsx-wrap-multilines
                   <div className="h-16 mt-6">
                     {frameworkContent[framework].name}
                   </div>
-                )}
+                }
                 title="Framework"
               />
               <Step

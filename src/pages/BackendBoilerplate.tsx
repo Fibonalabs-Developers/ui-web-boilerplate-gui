@@ -70,6 +70,21 @@ const BackendBoilerPlate = () => {
       </Header>
 
       <Layout backButton alert={alert}>
+        <div>
+          <div className="text-3xl py-3 font-extrabold pt-20">
+            Backend NodeJs Boilerplate
+          </div>
+          <hr className="pb-1" />
+          <p>
+            A backend boilerplate is a starter project for quickly building
+            RESTful APIs using Node.js with the Docker Support. By running a
+            single command, you will get a production-ready Node js application,
+            which comes with many built-in features, such as authentication
+            using JWT, request validation, unit and integration tests,
+            continuous integration, docker support, API documentation,
+            pagination, etc.
+          </p>
+        </div>
         <div className="flex flex-col md:flex-row gap-5">
           <Card
             val={1}
