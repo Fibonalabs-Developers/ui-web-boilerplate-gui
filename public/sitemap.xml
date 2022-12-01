@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+<loc>https://opensource.fibonalabs.com/</loc>
+<lastmod>2022-11-24T11:31:51+00:00</lastmod>
+</url>
+<url>
+<loc>https://opensource.fibonalabs.com/react-boilerplate</loc>
+<lastmod>2022-11-24T11:31:51+00:00</lastmod>
+</url>
+<url>
+<loc>https://opensource.fibonalabs.com/backend-boilerplate</loc>
+<lastmod>2022-11-24T11:31:51+00:00</lastmod>
+</url>
+<url>
+<loc>https://opensource.fibonalabs.com/pdf-generator</loc>
+<lastmod>2022-11-24T11:31:51+00:00</lastmod>
+</url>
+<url>
+<loc>https://opensource.fibonalabs.com/just-communication</loc>
+<lastmod>2022-11-24T11:31:51+00:00</lastmod>
+</url>
+<url>
+<loc>https://opensource.fibonalabs.com/captcha-generator</loc>
+<lastmod>2022-11-24T11:31:51+00:00</lastmod>
+</url>
+<url>
+<loc>https://opensource.fibonalabs.com/utility</loc>
+<lastmod>2022-11-24T11:31:51+00:00</lastmod>
+</url>
+<url>
+<loc>https://opensource.fibonalabs.com/comment-module</loc>
+<lastmod>2022-11-24T11:31:51+00:00</lastmod>
+</url>
+<url>
+<loc>https://opensource.fibonalabs.com/react-native</loc>
+<lastmod>2022-11-24T11:31:51+00:00</lastmod>
+</url>
+<url>
+<loc>https://opensource.fibonalabs.com/flutter</loc>
+<lastmod>2022-11-24T11:31:51+00:00</lastmod>
+</url>
+</urlset>
