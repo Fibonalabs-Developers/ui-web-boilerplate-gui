@@ -18,9 +18,9 @@ const JustCommunication = () => (
     </a>
     <div className="mx-10 pb-5 pt-40">
       <div>
-        <div className="text-3xl py-3 font-extrabold">
+        <h1 className="text-3xl py-3 font-extrabold">
           Communication Framework
-        </div>
+        </h1>
         <p>
           <b>Communication Framework</b>
           is the utility components that can be used to achieve the list of

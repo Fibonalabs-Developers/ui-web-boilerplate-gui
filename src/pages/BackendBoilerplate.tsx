@@ -63,7 +63,7 @@ const BackendBoilerPlate = () => {
   return (
     <div>
       <Header
-        title="BACKEND NODEJS BOILERPLATE"
+        title="NODEJS BACKEND BOILERPLATE"
         subtitle="Easiest way to setup your backend"
       >
         <img src={Nodejs} alt="Not found" />
@@ -71,9 +71,9 @@ const BackendBoilerPlate = () => {
 
       <Layout backButton alert={alert}>
         <div>
-          <div className="text-3xl py-3 font-extrabold pt-20">
-            Backend NodeJs Boilerplate
-          </div>
+          <h1 className="text-3xl py-3 font-extrabold pt-20">
+            NodeJS Backend Boilerplate
+          </h1>
           <hr className="pb-1" />
           <p>
             A backend boilerplate is a starter project for quickly building

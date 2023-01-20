@@ -18,7 +18,7 @@ const Commentmodule = () => (
     </a>
     <div className="mx-10 pb-5 pt-40">
       <div>
-        <div className="text-3xl py-3 font-extrabold">Comment Module</div>
+        <h1 className="text-3xl py-3 font-extrabold">Comment Module</h1>
         <hr className="pb-1" />
         <div className="text-3xl py-3 font-extrabold">BE Comment Module</div>
         <p>

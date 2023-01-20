@@ -6,7 +6,10 @@ import Header from '../components/header';
 
 const utility = () => (
   <div>
-    <Header title="UTILITY" subtitle="Easiest way to setup your UTILITY" />
+    <Header
+      title="UTILITY MODULE"
+      subtitle="Easiest way to setup your UTILITY"
+    />
     <a
       href="/"
       title="back"

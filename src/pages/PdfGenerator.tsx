@@ -6,7 +6,7 @@ import Header from '../components/header';
 const PdfGenerator = () => (
   <div>
     <Header
-      title="PDF GENERATOR"
+      title="HTML TO PDF GENERATOR"
       subtitle="Easiest way to setup your PDF Generator"
     />
     <a
@@ -18,7 +18,7 @@ const PdfGenerator = () => (
     </a>
     <div className="mx-10 pb-5 pt-40">
       <div>
-        <div className="text-3xl py-3 font-extrabold">PDF Generator</div>
+        <h1 className="text-3xl py-3 font-extrabold">HTML to PDF generator</h1>
         <hr className="pb-1" />
         <p>
           Pdf generator is a Pdf document generation library for Node and the
