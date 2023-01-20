@@ -7,7 +7,7 @@ import sitekey from '../assets/svg/Sitekey_LI.jpg';
 const CaptchaGenerator = () => (
   <div>
     <Header
-      title="CAPTCHA GENERATOR"
+      title="FREE CAPTCHA GENERATOR"
       subtitle="Easiest way to setup your Captcha Generator"
     />
     <a
@@ -19,7 +19,7 @@ const CaptchaGenerator = () => (
     </a>
     <div className="mx-10 pb-5 pt-40">
       <div>
-        <div className="text-3xl py-3 font-extrabold">Captcha Generator</div>
+        <h1 className="text-3xl py-3 font-extrabold">Free Captcha generator</h1>
         <hr className="pb-1" />
         <p>
           CAPTCHA (Completely Automated Public Turing test to tell Computers and

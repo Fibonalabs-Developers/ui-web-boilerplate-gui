@@ -14,9 +14,8 @@ import Footer from '../components/footer';
 
 const Home = () => {
   const Card = (details: navType) => {
-    const {
-      name, date, href, desc, readMorehref, target,
-    } = details;
+    // eslint-disable-next-line object-curly-newline
+    const { name, date, href, desc, readMorehref, target } = details;
     console.log('data', name, date);
     return (
       <a

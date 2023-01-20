@@ -6,7 +6,10 @@ import Header from '../components/header';
 
 const Flutter = () => (
   <div>
-    <Header title="FLUTTER" subtitle="Easiest way to setup your Flutter" />
+    <Header
+      title="FLUTTER APP BOILERPLATE"
+      subtitle="Easiest way to setup your Flutter"
+    />
     <a
       href="/"
       title="back"
@@ -16,7 +19,9 @@ const Flutter = () => (
     </a>
     <div className="mx-10 pb-5 pt-40">
       <div>
-        <div className="text-3xl py-3 font-extrabold">FLUTTER</div>
+        <h1 className="text-3xl py-3 font-extrabold">
+          Flutter App Boilerplate
+        </h1>
         <hr className="pb-1" />
         <p>
           Boilerplate contains all you need to start your next Flutter project.

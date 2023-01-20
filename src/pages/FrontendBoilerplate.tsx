@@ -251,7 +251,7 @@ const BoilerPlate = () => {
   return (
     <>
       <Header
-        title="FRONTEND REACT BOILERPLATE"
+        title="REACT FRONTEND BOILERPLATE"
         subtitle="A Quick Setup to build your own application "
       >
         <img src={logo} alt="text" />
@@ -259,9 +259,9 @@ const BoilerPlate = () => {
 
       <Layout backButton alert={alert}>
         <div>
-          <div className="text-3xl py-3 font-extrabold pt-20">
-            Frontend React Boilerplate
-          </div>
+          <h1 className="text-3xl py-3 font-extrabold pt-20">
+            React Frontend Boilerplate
+          </h1>
           <hr className="pb-1" />
           <p>
             React boilerplate contains all you need to start your React project.
