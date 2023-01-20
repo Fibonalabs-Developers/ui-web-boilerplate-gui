@@ -9,7 +9,6 @@ const HomePageTags = () => (
     <meta name="keywords" content="Home" />
 
     <title>Fibonalabs: Open Source Frameworks | Build your Own Web App</title>
-
     <link rel="canonical" href="https://opensource.fibonalabs.com/" />
 
     {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
